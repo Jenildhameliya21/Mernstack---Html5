@@ -1,0 +1,77 @@
+.dd{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: white;
+}
+.add{
+    padding-left: 20px;
+}
+.emiall{
+    padding-top: 50px;
+    color: red;
+}
+.bbb{
+    background-color: skyblue;
+    padding-top: 5px;
+}
+.pp{
+    margin-bottom: 15px;
+}
+.ll{
+    color: red;
+    font-size: 24px;
+    margin-right: 100px;
+}
+.location{
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.h2{
+    padding-left: 50px;
+}
+.kk{
+    margin-top: 15px;
+    opacity: 0;
+}
+.hr{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.name
+{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-around;
+}
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    margin: 10px;
+    height: 30px;
+    width: 70px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+input
+{
+    margin: 10px;
+    width: 250px;
+    height: 25px;
+}
+textarea
+{
+    margin: 10px;
+    width: 535px;
+    height: 80px;
+}
+.ii
+{
+    font-size: 30px;
+    padding-right: 10px;
+}
